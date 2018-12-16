@@ -1,0 +1,7 @@
+{
+  "name": "AngularKarmaSample",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
