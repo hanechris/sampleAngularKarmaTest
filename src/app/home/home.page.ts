@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
+
+  doClick() {
+    console.log('click occuring');
+  }
 }
